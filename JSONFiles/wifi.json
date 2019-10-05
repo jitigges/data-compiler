@@ -1,0 +1,9 @@
+{
+  "wireless":[
+    {
+        "price": "17.99",
+        "model": "tl-wn881nd",
+        "maker": "tp-link",
+        "protocol": "802.11b/g/n",
+        "interface": "pcie x1"
+}]}

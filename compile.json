@@ -1,0 +1,147 @@
+[
+    {
+        "case": [
+            {
+                "gpumax": "381mm/15\"", 
+                "watercooling": "true", 
+                "color": "black/white", 
+                "price": "69.99", 
+                "PSUshroud": "true", 
+                "psu": "false", 
+                "RGB": "false", 
+                "internal25": "3", 
+                "usb": "usb 3.2 type-a", 
+                "internal35": "3", 
+                "model": "h500", 
+                "tempglass": "true", 
+                "maker": "nzxt", 
+                "size": "mid tower"
+            }
+        ]
+    },{
+    "wireless": [
+        {
+            "interface": "pcie x1", 
+            "price": "17.99", 
+            "protocol": "802.11b/g/n", 
+            "model": "tl-wn881nd", 
+            "maker": "tp-link"
+        }
+    ]
+},{
+    "SSD": [
+        {
+            "formfactor": "2.5\"", 
+            "capacity": "500gb", 
+            "price": "74.99", 
+            "cache": "512mb", 
+            "NVME": "false", 
+            "interface": "sata 6gb/s", 
+            "model": "860 evo", 
+            "maker": "samsung"
+        }
+    ]
+},{
+    "RAM": [
+        {
+            "color": "black/yellow", 
+            "price": "69.99", 
+            "modules": "2x8gb", 
+            "model": "vengeance lpx", 
+            "speed": "ddr4-3000", 
+            "maker": "corsair", 
+            "size": "16gb"
+        }
+    ]
+},{
+    "processor": [
+        {
+            "price": "79.97", 
+            "cores": "4", 
+            "graphics": "vega 8 graphics", 
+            "clockspeed": "3.7ghz", 
+            "model": "ryzen 3 2200g", 
+            "maker": "amd"
+        }, 
+        {
+            "price": "129.30", 
+            "cores": "6", 
+            "graphics": "", 
+            "clockspeed": "3.4ghz", 
+            "model": "ryzen 5 2600", 
+            "maker": "amd"
+        }
+    ]
+},{
+    "powersupply": [
+        {
+            "certificate": "80+ gold", 
+            "price": "129.89", 
+            "maker": "evga", 
+            "model": "supernova g3", 
+            "Type": "atx", 
+            "wattage": "750w"
+        }, 
+        {
+            "certificate": "1", 
+            "price": "1", 
+            "maker": "1", 
+            "model": "1", 
+            "Type": "1", 
+            "wattage": "1"
+        }
+    ]
+},{
+    "motherboard": [
+        {
+            "formfactor": "mini-itx", 
+            "RAID-support": "true", 
+            "socket": "lga1151", 
+            "m2slots": "2", 
+            "price": "134.99", 
+            "wifi": "ac", 
+            "MemoryType": "ddr4", 
+            "chipset": "z390m", 
+            "model": "", 
+            "RAM_slots": "2", 
+            "maker": "arrock"
+        }
+    ]
+},{
+    "HDD": [
+        {
+            "formfactor": "3.5\"", 
+            "capacity": "1tb", 
+            "price": "42.99", 
+            "cache": "64mb", 
+            "interface": "sata 6gb/s", 
+            "model": "caviar blue", 
+            "type": "7200rpm", 
+            "maker": "western digital"
+        }
+    ]
+},{
+    "GPU": [
+        {
+            "dviports": "1", 
+            "tdp": "185w", 
+            "displayports": "2", 
+            "color": "black/white", 
+            "price": "184.99", 
+            "cooling": "2 fans", 
+            "slicrossfire": "crossFire capable", 
+            "boostclock": "1266mhz", 
+            "coreclock": "1257mhz", 
+            "length": "269mm", 
+            "memorytype": "gddr5", 
+            "externalpower": "1 pcie 8-pin", 
+            "memoryclock": "8000mhz", 
+            "interface": "pcie x16", 
+            "chipset": "radeon rx 580", 
+            "model": "armor oc", 
+            "hdmiports": "2", 
+            "maker": "msi", 
+            "framesync": "freesync"
+        }
+    ]
+}]

@@ -1,0 +1,12 @@
+{
+  "SSD":[
+    {
+        "price": "74.99",
+        "model": "860 evo",
+        "maker": "samsung",
+        "interface": "sata 6gb/s",
+        "capacity": "500gb",
+        "cache": "512mb",
+        "formfactor": "2.5\"",
+        "NVME": "false"
+}]}
