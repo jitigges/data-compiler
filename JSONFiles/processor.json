@@ -1,0 +1,17 @@
+{
+  "processor":[
+    {
+        "maker": "amd",
+        "model": "ryzen 3 2200g",
+        "clockspeed": "3.7ghz",
+        "cores": "4",
+        "price": "79.97",
+        "graphics": "vega 8 graphics"
+} , {
+    "maker": "amd",
+    "model": "ryzen 5 2600",
+    "clockspeed": "3.4ghz",
+    "cores": "6",
+    "price": "129.30",
+    "graphics": ""
+}]}

@@ -1,0 +1,18 @@
+{
+  "case":[
+    {
+        "price": "69.99",
+        "model": "h500",
+        "maker": "nzxt",
+        "RGB": "false",
+        "size": "mid tower",
+        "tempglass": "true",
+        "color": "black/white",
+        "watercooling": "true",
+        "gpumax": "381mm/15\"",
+        "psu": "false",
+        "usb": "usb 3.2 type-a",
+        "internal25": "3",
+        "internal35": "3",
+        "PSUshroud": "true"
+}]}

@@ -1,0 +1,15 @@
+{
+  "motherboard":[
+    {
+        "price": "134.99",
+        "model": "",
+        "maker": "arrock",
+        "formfactor": "mini-itx",
+        "socket": "lga1151",
+        "chipset": "z390m",
+        "wifi": "ac",
+        "RAM_slots": "2",
+        "MemoryType": "ddr4",
+        "m2slots": "2",
+        "RAID-support": "true"
+}]}

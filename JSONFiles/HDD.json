@@ -1,0 +1,12 @@
+{
+  "HDD":[
+    {
+        "price": "42.99",
+        "model": "caviar blue",
+        "maker": "western digital",
+        "interface": "sata 6gb/s",
+        "capacity": "1tb",
+        "type": "7200rpm",
+        "cache": "64mb",
+        "formfactor": "3.5\""
+}]}
